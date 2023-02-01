@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 8e0d5a1d479f44fa38e7b0b0668947be
+timeCreated: 1506351373
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Apple
+    100002: Apple.001
+    100004: Apple.002
+    100006: Apple.003
+    100008: Apple.004
+    100010: Apple.005
+    100012: //RootNode
+    100014: Tree
+    100016: Apple.006
+    100018: Apple1
+    100020: Apple2
+    100022: Apple3
+    100024: Apple4
+    100026: Apple5
+    100028: Apple6
+    100030: Apple7
+    100032: Leaves
+    100034: Trunk
+    100036: Bushes
+    400000: Apple
+    400002: Apple.001
+    400004: Apple.002
+    400006: Apple.003
+    400008: Apple.004
+    400010: Apple.005
+    400012: Tree
+    400014: //RootNode
+    400016: Apple.006
+    400018: Apple1
+    400020: Apple2
+    400022: Apple3
+    400024: Apple4
+    400026: Apple5
+    400028: Apple6
+    400030: Apple7
+    400032: Leaves
+    400034: Trunk
+    400036: Bushes
+    2300000: Apple
+    2300002: Apple.001
+    2300004: Apple.002
+    2300006: Apple.003
+    2300008: Apple.004
+    2300010: Apple.005
+    2300012: Tree
+    2300014: Apple.006
+    2300016: Apple1
+    2300018: Apple2
+    2300020: Apple3
+    2300022: Apple4
+    2300024: Apple5
+    2300026: Apple6
+    2300028: Apple7
+    2300030: Leaves
+    2300032: Trunk
+    2300034: //RootNode
+    2300036: Bushes
+    3300000: Apple
+    3300002: Apple.001
+    3300004: Apple.002
+    3300006: Apple.003
+    3300008: Apple.004
+    3300010: Apple.005
+    3300012: Tree
+    3300014: Apple.006
+    3300016: Apple1
+    3300018: Apple2
+    3300020: Apple3
+    3300022: Apple4
+    3300024: Apple5
+    3300026: Apple6
+    3300028: Apple7
+    3300030: Leaves
+    3300032: Trunk
+    3300034: //RootNode
+    3300036: Bushes
+    4300000: Apple.005
+    4300002: Apple.004
+    4300004: Apple.003
+    4300006: Apple.002
+    4300008: Apple.001
+    4300010: Apple
+    4300012: Tree
+    4300014: Apple.006
+    4300016: Apple3
+    4300018: Apple5
+    4300020: Apple7
+    4300022: Apple4
+    4300024: Apple2
+    4300026: Apple6
+    4300028: Apple1
+    4300030: Trunk
+    4300032: Leaves
+    4300034: Bushes
+    6400000: Apple
+    6400002: Apple.001
+    6400004: Apple.002
+    6400006: Apple.003
+    6400008: Apple.004
+    6400010: Apple.005
+    6400012: Tree
+    6400014: Apple.006
+    6400016: Apple1
+    6400018: Apple2
+    6400020: Apple3
+    6400022: Apple4
+    6400024: Apple5
+    6400026: Apple6
+    6400028: Apple7
+    6400030: Leaves
+    6400032: Trunk
+    6400034: //RootNode
+    6400036: Bushes
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

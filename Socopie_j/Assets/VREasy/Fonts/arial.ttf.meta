@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 64543b45c36a6db4284da2e60c24b4c1
+timeCreated: 1512038807
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 72
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arial
+  fontNames:
+  - Arial
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

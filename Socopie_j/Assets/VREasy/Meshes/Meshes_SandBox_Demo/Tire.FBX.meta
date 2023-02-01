@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: 6c527947cae74614c8b479eb41bbbb39
+timeCreated: 1512553810
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bolts
+    100002: CapScrews
+    100004: Cover_Wheel_LF
+    100006: Cylinder_Tire_LF
+    100008: ProtectionPlate_Tyre_FL
+    100010: Rim_FL
+    100012: //RootNode
+    100014: Tire_LF002
+    400000: Bolts
+    400002: CapScrews
+    400004: Cover_Wheel_LF
+    400006: Cylinder_Tire_LF
+    400008: ProtectionPlate_Tyre_FL
+    400010: Rim_FL
+    400012: //RootNode
+    400014: Tire_LF002
+    2300000: Bolts
+    2300002: CapScrews
+    2300004: Cover_Wheel_LF
+    2300006: Cylinder_Tire_LF
+    2300008: ProtectionPlate_Tyre_FL
+    2300010: Rim_FL
+    2300012: Tire_LF002
+    3300000: Bolts
+    3300002: CapScrews
+    3300004: Cover_Wheel_LF
+    3300006: Cylinder_Tire_LF
+    3300008: ProtectionPlate_Tyre_FL
+    3300010: Rim_FL
+    3300012: Tire_LF002
+    4300000: Tire_LF002
+    4300002: Cover_Wheel_LF
+    4300004: Cylinder_Tire_LF
+    4300006: CapScrews
+    4300008: Rim_FL
+    4300010: Bolts
+    4300012: ProtectionPlate_Tyre_FL
+    6400000: Bolts
+    6400002: CapScrews
+    6400004: Cover_Wheel_LF
+    6400006: Cylinder_Tire_LF
+    6400008: ProtectionPlate_Tyre_FL
+    6400010: Rim_FL
+    6400012: Tire_LF002
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

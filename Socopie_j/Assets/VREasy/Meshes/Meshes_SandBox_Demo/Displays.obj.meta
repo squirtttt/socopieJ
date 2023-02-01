@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: fc4a82e800b8f8042b1414f80cddc1fa
+timeCreated: 1506235668
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Display
+    100002: Display001
+    100004: Display_Back001
+    100006: Display_Back002
+    100008: Display_Back003
+    100010: Display_Back004
+    100012: Display_Back005
+    100014: Display_Back006
+    100016: Display_Back007
+    100018: Display_Back008
+    100020: Display_Back009
+    100022: Display_Back010
+    100024: //RootNode
+    400000: Display
+    400002: Display001
+    400004: Display_Back001
+    400006: Display_Back002
+    400008: Display_Back003
+    400010: Display_Back004
+    400012: Display_Back005
+    400014: Display_Back006
+    400016: Display_Back007
+    400018: Display_Back008
+    400020: Display_Back009
+    400022: Display_Back010
+    400024: //RootNode
+    2300000: Display
+    2300002: Display001
+    2300004: Display_Back001
+    2300006: Display_Back002
+    2300008: Display_Back003
+    2300010: Display_Back004
+    2300012: Display_Back005
+    2300014: Display_Back006
+    2300016: Display_Back007
+    2300018: Display_Back008
+    2300020: Display_Back009
+    2300022: Display_Back010
+    3300000: Display
+    3300002: Display001
+    3300004: Display_Back001
+    3300006: Display_Back002
+    3300008: Display_Back003
+    3300010: Display_Back004
+    3300012: Display_Back005
+    3300014: Display_Back006
+    3300016: Display_Back007
+    3300018: Display_Back008
+    3300020: Display_Back009
+    3300022: Display_Back010
+    4300000: Display
+    4300002: Display001
+    4300004: Display_Back001
+    4300006: Display_Back002
+    4300008: Display_Back003
+    4300010: Display_Back004
+    4300012: Display_Back005
+    4300014: Display_Back006
+    4300016: Display_Back007
+    4300018: Display_Back008
+    4300020: Display_Back009
+    4300022: Display_Back010
+    6400000: Display
+    6400002: Display001
+    6400004: Display_Back001
+    6400006: Display_Back002
+    6400008: Display_Back003
+    6400010: Display_Back004
+    6400012: Display_Back005
+    6400014: Display_Back006
+    6400016: Display_Back007
+    6400018: Display_Back008
+    6400020: Display_Back009
+    6400022: Display_Back010
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

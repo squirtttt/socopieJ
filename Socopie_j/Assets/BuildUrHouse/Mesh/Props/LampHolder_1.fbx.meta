@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: ba4f3019b10edf94faaa0557885ebfb9
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Lamp_1.007
+    100002: Lamp_1.008
+    100004: //RootNode
+    100006: LampHolder_1_base_1-1
+    100008: LampHolder_1_base_1-2
+    100010: LampHolder_1_base_1-3
+    100012: LampHolder_1_base_1-4
+    100014: LampHolder_1_base_2-1
+    100016: LampHolder_1_base_2-1.001
+    100018: LampHolder_1_base_2-1.002
+    100020: LampHolder_1_base_3-1
+    100022: LampHolder_1_base_3-2
+    100024: LampHolder_1_base_3-3
+    100026: LampHolder_1_baseT_1
+    100028: LampHolder_1_chair_1-1
+    100030: LampHolder_1_chair_1-2
+    100032: LampHolder_1_chair_1-3
+    100034: LampHolder_1_det_1-1
+    100036: LampHolder_1_det_1-1.001
+    100038: LampHolder_1_det_1-1.002
+    100040: LampHolder_1_det_1-2
+    100042: LampHolder_1_det_1-2.001
+    100044: LampHolder_1_det_1-2.002
+    100046: LampHolder_1_holder_1
+    100048: LampHolder_1_holder_2
+    100050: LampHolder_1_holder_3
+    100052: LampHolder_1_lamp_1
+    100054: LampHolder_1_lamp_2
+    100056: LampHolder_1_lamp_3
+    400000: Lamp_1.007
+    400002: Lamp_1.008
+    400004: //RootNode
+    400006: LampHolder_1_base_1-1
+    400008: LampHolder_1_base_1-2
+    400010: LampHolder_1_base_1-3
+    400012: LampHolder_1_base_1-4
+    400014: LampHolder_1_base_2-1
+    400016: LampHolder_1_base_2-1.001
+    400018: LampHolder_1_base_2-1.002
+    400020: LampHolder_1_base_3-1
+    400022: LampHolder_1_base_3-2
+    400024: LampHolder_1_base_3-3
+    400026: LampHolder_1_baseT_1
+    400028: LampHolder_1_chair_1-1
+    400030: LampHolder_1_chair_1-2
+    400032: LampHolder_1_chair_1-3
+    400034: LampHolder_1_det_1-1
+    400036: LampHolder_1_det_1-1.001
+    400038: LampHolder_1_det_1-1.002
+    400040: LampHolder_1_det_1-2
+    400042: LampHolder_1_det_1-2.001
+    400044: LampHolder_1_det_1-2.002
+    400046: LampHolder_1_holder_1
+    400048: LampHolder_1_holder_2
+    400050: LampHolder_1_holder_3
+    400052: LampHolder_1_lamp_1
+    400054: LampHolder_1_lamp_2
+    400056: LampHolder_1_lamp_3
+    2100000: No Name
+    2300000: Lamp_1.007
+    2300002: Lamp_1.008
+    2300004: LampHolder_1_base_1-1
+    2300006: LampHolder_1_base_1-2
+    2300008: LampHolder_1_base_1-3
+    2300010: LampHolder_1_base_1-4
+    2300012: LampHolder_1_base_2-1
+    2300014: LampHolder_1_base_2-1.001
+    2300016: LampHolder_1_base_2-1.002
+    2300018: LampHolder_1_base_3-1
+    2300020: LampHolder_1_base_3-2
+    2300022: LampHolder_1_base_3-3
+    2300024: LampHolder_1_baseT_1
+    2300026: LampHolder_1_chair_1-1
+    2300028: LampHolder_1_chair_1-2
+    2300030: LampHolder_1_chair_1-3
+    2300032: LampHolder_1_det_1-1
+    2300034: LampHolder_1_det_1-1.001
+    2300036: LampHolder_1_det_1-1.002
+    2300038: LampHolder_1_det_1-2
+    2300040: LampHolder_1_det_1-2.001
+    2300042: LampHolder_1_det_1-2.002
+    2300044: LampHolder_1_holder_1
+    2300046: LampHolder_1_holder_2
+    2300048: LampHolder_1_holder_3
+    2300050: LampHolder_1_lamp_1
+    2300052: LampHolder_1_lamp_2
+    2300054: LampHolder_1_lamp_3
+    3300000: Lamp_1.007
+    3300002: Lamp_1.008
+    3300004: LampHolder_1_base_1-1
+    3300006: LampHolder_1_base_1-2
+    3300008: LampHolder_1_base_1-3
+    3300010: LampHolder_1_base_1-4
+    3300012: LampHolder_1_base_2-1
+    3300014: LampHolder_1_base_2-1.001
+    3300016: LampHolder_1_base_2-1.002
+    3300018: LampHolder_1_base_3-1
+    3300020: LampHolder_1_base_3-2
+    3300022: LampHolder_1_base_3-3
+    3300024: LampHolder_1_baseT_1
+    3300026: LampHolder_1_chair_1-1
+    3300028: LampHolder_1_chair_1-2
+    3300030: LampHolder_1_chair_1-3
+    3300032: LampHolder_1_det_1-1
+    3300034: LampHolder_1_det_1-1.001
+    3300036: LampHolder_1_det_1-1.002
+    3300038: LampHolder_1_det_1-2
+    3300040: LampHolder_1_det_1-2.001
+    3300042: LampHolder_1_det_1-2.002
+    3300044: LampHolder_1_holder_1
+    3300046: LampHolder_1_holder_2
+    3300048: LampHolder_1_holder_3
+    3300050: LampHolder_1_lamp_1
+    3300052: LampHolder_1_lamp_2
+    3300054: LampHolder_1_lamp_3
+    4300000: LampHolder_1_det_1-2.002
+    4300002: LampHolder_1_det_1-1.002
+    4300004: LampHolder_1_det_1-1.001
+    4300006: LampHolder_1_det_1-2.001
+    4300008: LampHolder_1_base_2-1.002
+    4300010: LampHolder_1_base_2-1.001
+    4300012: LampHolder_1_chair_1-3
+    4300014: LampHolder_1_det_1-2
+    4300016: LampHolder_1_det_1-1
+    4300018: LampHolder_1_base_1-4
+    4300020: LampHolder_1_holder_3
+    4300022: LampHolder_1_lamp_3
+    4300024: LampHolder_1_base_3-3
+    4300026: LampHolder_1_base_3-2
+    4300028: LampHolder_1_lamp_2
+    4300030: LampHolder_1_holder_2
+    4300032: LampHolder_1_base_1-3
+    4300034: Lamp_1.008
+    4300036: Lamp_1.007
+    4300038: LampHolder_1_base_3-1
+    4300040: LampHolder_1_lamp_1
+    4300042: LampHolder_1_holder_1
+    4300044: LampHolder_1_base_2-1
+    4300046: LampHolder_1_base_1-2
+    4300048: LampHolder_1_base_1-1
+    4300050: LampHolder_1_chair_1-2
+    4300052: LampHolder_1_chair_1-1
+    4300054: LampHolder_1_baseT_1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

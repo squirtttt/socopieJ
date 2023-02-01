@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: cc5858a7b304cb3458c7f6338ec2a457
+timeCreated: 1507536423
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature.001
+    100004: Armature.002
+    100006: Armature.003
+    100008: Armature.004
+    100010: Armature.005
+    100012: Armature.006
+    100014: Armature.007
+    100016: Armature.008
+    100018: Armature.009
+    100020: Armature.010
+    100022: Armature.011
+    100024: Blind1
+    100026: Blind1.001
+    100028: Blind1.002
+    100030: Blind1.003
+    100032: Blind1.004
+    100034: Blind1.005
+    100036: Blind1.006
+    100038: Blind1.007
+    100040: Blind1.008
+    100042: Blind1.009
+    100044: Blind1.010
+    100046: Blind1.011
+    100048: //RootNode
+    100050: Bone
+    100052: Bone 1
+    100054: Bone 10
+    100056: Bone 11
+    100058: Bone 2
+    100060: Bone 3
+    100062: Bone 4
+    100064: Bone 5
+    100066: Bone 6
+    100068: Bone 7
+    100070: Bone 8
+    100072: Bone 9
+    100074: Bone_end
+    100076: Bone_end 1
+    100078: Bone_end 10
+    100080: Bone_end 11
+    100082: Bone_end 2
+    100084: Bone_end 3
+    100086: Bone_end 4
+    100088: Bone_end 5
+    100090: Bone_end 6
+    100092: Bone_end 7
+    100094: Bone_end 8
+    100096: Bone_end 9
+    100098: Camera
+    100100: Bone002
+    100102: Bone003
+    100104: Bone004
+    100106: Bone005
+    100108: Bone006
+    100110: Bone007
+    100112: Bone008
+    100114: Bone009
+    100116: Bone010
+    100118: Bone011
+    100120: Bone012
+    100122: Bone013
+    100124: Bone014
+    100126: Bone1
+    400000: Armature
+    400002: Armature.001
+    400004: Armature.002
+    400006: Armature.003
+    400008: Armature.004
+    400010: Armature.005
+    400012: Armature.006
+    400014: Armature.007
+    400016: Armature.008
+    400018: Armature.009
+    400020: Armature.010
+    400022: Armature.011
+    400024: Blind1
+    400026: Blind1.001
+    400028: Blind1.002
+    400030: Blind1.003
+    400032: Blind1.004
+    400034: Blind1.005
+    400036: Blind1.006
+    400038: Blind1.007
+    400040: Blind1.008
+    400042: Blind1.009
+    400044: Blind1.010
+    400046: Blind1.011
+    400048: //RootNode
+    400050: Bone
+    400052: Bone 1
+    400054: Bone 10
+    400056: Bone 11
+    400058: Bone 2
+    400060: Bone 3
+    400062: Bone 4
+    400064: Bone 5
+    400066: Bone 6
+    400068: Bone 7
+    400070: Bone 8
+    400072: Bone 9
+    400074: Bone_end
+    400076: Bone_end 1
+    400078: Bone_end 10
+    400080: Bone_end 11
+    400082: Bone_end 2
+    400084: Bone_end 3
+    400086: Bone_end 4
+    400088: Bone_end 5
+    400090: Bone_end 6
+    400092: Bone_end 7
+    400094: Bone_end 8
+    400096: Bone_end 9
+    400098: Camera
+    400100: Bone002
+    400102: Bone003
+    400104: Bone004
+    400106: Bone005
+    400108: Bone006
+    400110: Bone007
+    400112: Bone008
+    400114: Bone009
+    400116: Bone010
+    400118: Bone011
+    400120: Bone012
+    400122: Bone013
+    400124: Bone014
+    400126: Bone1
+    4300000: Blind1.011
+    4300002: Blind1.010
+    4300004: Blind1.009
+    4300006: Blind1.008
+    4300008: Blind1.007
+    4300010: Blind1.006
+    4300012: Blind1.005
+    4300014: Blind1.004
+    4300016: Blind1.003
+    4300018: Blind1.002
+    4300020: Blind1.001
+    4300022: Blind1
+    7400000: Armature|Armature.001Action
+    7400002: Armature|Armature.002Action
+    7400004: Armature|Armature.003Action
+    7400006: Armature|Armature.004Action
+    7400008: Armature|Armature.005Action
+    7400010: Armature|Armature.006Action
+    7400012: Armature|Armature.007Action
+    7400014: Armature|Armature.008Action
+    7400016: Armature|Armature.009Action
+    7400018: Armature|Armature.010Action
+    7400020: Armature|Blinds1
+    7400022: Armature|DoorRotate
+    7400024: Armature|SlidingDoor
+    7400026: Armature.010|Armature.001Action
+    7400028: Armature.010|Armature.002Action
+    7400030: Armature.010|Armature.003Action
+    7400032: Armature.010|Armature.004Action
+    7400034: Armature.010|Armature.005Action
+    7400036: Armature.010|Armature.006Action
+    7400038: Armature.010|Armature.007Action
+    7400040: Armature.010|Armature.008Action
+    7400042: Armature.010|Armature.009Action
+    7400044: Armature.010|Armature.010Action
+    7400046: Armature.010|Blinds1
+    7400048: Armature.010|DoorRotate
+    7400050: Armature.010|SlidingDoor
+    7400052: Armature.009|Armature.001Action
+    7400054: Armature.009|Armature.002Action
+    7400056: Armature.009|Armature.003Action
+    7400058: Armature.009|Armature.004Action
+    7400060: Armature.009|Armature.005Action
+    7400062: Armature.009|Armature.006Action
+    7400064: Armature.009|Armature.007Action
+    7400066: Armature.009|Armature.008Action
+    7400068: Armature.009|Armature.009Action
+    7400070: Armature.009|Armature.010Action
+    7400072: Armature.009|Blinds1
+    7400074: Armature.009|DoorRotate
+    7400076: Armature.009|SlidingDoor
+    7400078: Armature.008|Armature.001Action
+    7400080: Armature.008|Armature.002Action
+    7400082: Armature.008|Armature.003Action
+    7400084: Armature.008|Armature.004Action
+    7400086: Armature.008|Armature.005Action
+    7400088: Armature.008|Armature.006Action
+    7400090: Armature.008|Armature.007Action
+    7400092: Armature.008|Armature.008Action
+    7400094: Armature.008|Armature.009Action
+    7400096: Armature.008|Armature.010Action
+    7400098: Armature.008|Blinds1
+    7400100: Armature.008|DoorRotate
+    7400102: Armature.008|SlidingDoor
+    7400104: Armature.007|Armature.001Action
+    7400106: Armature.007|Armature.002Action
+    7400108: Armature.007|Armature.003Action
+    7400110: Armature.007|Armature.004Action
+    7400112: Armature.007|Armature.005Action
+    7400114: Armature.007|Armature.006Action
+    7400116: Armature.007|Armature.007Action
+    7400118: Armature.007|Armature.008Action
+    7400120: Armature.007|Armature.009Action
+    7400122: Armature.007|Armature.010Action
+    7400124: Armature.007|Blinds1
+    7400126: Armature.007|DoorRotate
+    7400128: Armature.007|SlidingDoor
+    7400130: Armature.006|Armature.001Action
+    7400132: Armature.006|Armature.002Action
+    7400134: Armature.006|Armature.003Action
+    7400136: Armature.006|Armature.004Action
+    7400138: Armature.006|Armature.005Action
+    7400140: Armature.006|Armature.006Action
+    7400142: Armature.006|Armature.007Action
+    7400144: Armature.006|Armature.008Action
+    7400146: Armature.006|Armature.009Action
+    7400148: Armature.006|Armature.010Action
+    7400150: Armature.006|Blinds1
+    7400152: Armature.006|DoorRotate
+    7400154: Armature.006|SlidingDoor
+    7400156: Armature.005|Armature.001Action
+    7400158: Armature.005|Armature.002Action
+    7400160: Armature.005|Armature.003Action
+    7400162: Armature.005|Armature.004Action
+    7400164: Armature.005|Armature.005Action
+    7400166: Armature.005|Armature.006Action
+    7400168: Armature.005|Armature.007Action
+    7400170: Armature.005|Armature.008Action
+    7400172: Armature.005|Armature.009Action
+    7400174: Armature.005|Armature.010Action
+    7400176: Armature.005|Blinds1
+    7400178: Armature.005|DoorRotate
+    7400180: Armature.005|SlidingDoor
+    7400182: Armature.004|Armature.001Action
+    7400184: Armature.004|Armature.002Action
+    7400186: Armature.004|Armature.003Action
+    7400188: Armature.004|Armature.004Action
+    7400190: Armature.004|Armature.005Action
+    7400192: Armature.004|Armature.006Action
+    7400194: Armature.004|Armature.007Action
+    7400196: Armature.004|Armature.008Action
+    7400198: Armature.004|Armature.009Action
+    7400200: Armature.004|Armature.010Action
+    7400202: Armature.004|Blinds1
+    7400204: Armature.004|DoorRotate
+    7400206: Armature.004|SlidingDoor
+    7400208: Armature.003|Armature.001Action
+    7400210: Armature.003|Armature.002Action
+    7400212: Armature.003|Armature.003Action
+    7400214: Armature.003|Armature.004Action
+    7400216: Armature.003|Armature.005Action
+    7400218: Armature.003|Armature.006Action
+    7400220: Armature.003|Armature.007Action
+    7400222: Armature.003|Armature.008Action
+    7400224: Armature.003|Armature.009Action
+    7400226: Armature.003|Armature.010Action
+    7400228: Armature.003|Blinds1
+    7400230: Armature.003|DoorRotate
+    7400232: Armature.003|SlidingDoor
+    7400234: Armature.002|Armature.001Action
+    7400236: Armature.002|Armature.002Action
+    7400238: Armature.002|Armature.003Action
+    7400240: Armature.002|Armature.004Action
+    7400242: Armature.002|Armature.005Action
+    7400244: Armature.002|Armature.006Action
+    7400246: Armature.002|Armature.007Action
+    7400248: Armature.002|Armature.008Action
+    7400250: Armature.002|Armature.009Action
+    7400252: Armature.002|Armature.010Action
+    7400254: Armature.002|Blinds1
+    7400256: Armature.002|DoorRotate
+    7400258: Armature.002|SlidingDoor
+    7400260: Armature.001|Armature.001Action
+    7400262: Armature.001|Armature.002Action
+    7400264: Armature.001|Armature.003Action
+    7400266: Armature.001|Armature.004Action
+    7400268: Armature.001|Armature.005Action
+    7400270: Armature.001|Armature.006Action
+    7400272: Armature.001|Armature.007Action
+    7400274: Armature.001|Armature.008Action
+    7400276: Armature.001|Armature.009Action
+    7400278: Armature.001|Armature.010Action
+    7400280: Armature.001|Blinds1
+    7400282: Armature.001|DoorRotate
+    7400284: Armature.001|SlidingDoor
+    7400286: OpenBlinds
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Blind1
+    13700002: Blind1.001
+    13700004: Blind1.002
+    13700006: Blind1.003
+    13700008: Blind1.004
+    13700010: Blind1.005
+    13700012: Blind1.006
+    13700014: Blind1.007
+    13700016: Blind1.008
+    13700018: Blind1.009
+    13700020: Blind1.010
+    13700022: Blind1.011
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: OpenBlinds
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 50.000004
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Blind1
+        weight: 1
+      - path: Bone1
+        weight: 1
+      - path: Bone002
+        weight: 1
+      - path: Bone003
+        weight: 1
+      - path: Bone004
+        weight: 1
+      - path: Bone005
+        weight: 1
+      - path: Bone006
+        weight: 1
+      - path: Bone007
+        weight: 1
+      - path: Bone008
+        weight: 1
+      - path: Bone009
+        weight: 1
+      - path: Bone010
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone012
+        weight: 1
+      - path: Bone013
+        weight: 1
+      - path: Bone014
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

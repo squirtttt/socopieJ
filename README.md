@@ -1,4 +1,3 @@
-# Socopie_J
-산학연계 프로젝트 [팀 소코파이 정]
-
-![탄소발자국 스토리보드](https://user-images.githubusercontent.com/64387433/215972408-cabcf03a-781a-46f7-a5ea-1c3e371ae435.png)
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcfd4ac871fcc1acc50030a3f0606bcf1be141ff7cc27b02b07593d42989fa12
+size 204

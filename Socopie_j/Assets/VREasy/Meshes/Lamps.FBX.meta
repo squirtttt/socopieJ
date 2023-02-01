@@ -1,0 +1,158 @@
+fileFormatVersion: 2
+guid: 97659fbe18ab34acaaeb2baf2e155a94
+timeCreated: 1476449005
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bulb
+    100002: Bulb001
+    100004: Bulb002
+    100006: Bulb_Plastic
+    100008: Bulb_Plastic001
+    100010: Bulb_Plastic002
+    100012: Glass_Lamp3
+    100014: Gold_Lamp3
+    100016: //RootNode
+    100018: Metal_Lamp1
+    100020: Metal_Lamp2
+    100022: Metal_Lamp3
+    100024: Wire_Lamp1
+    100026: Wire_Lamp2
+    100028: Wire_Lamp3
+    400000: Bulb
+    400002: Bulb001
+    400004: Bulb002
+    400006: Bulb_Plastic
+    400008: Bulb_Plastic001
+    400010: Bulb_Plastic002
+    400012: Glass_Lamp3
+    400014: Gold_Lamp3
+    400016: //RootNode
+    400018: Metal_Lamp1
+    400020: Metal_Lamp2
+    400022: Metal_Lamp3
+    400024: Wire_Lamp1
+    400026: Wire_Lamp2
+    400028: Wire_Lamp3
+    2300000: Bulb
+    2300002: Bulb001
+    2300004: Bulb002
+    2300006: Bulb_Plastic
+    2300008: Bulb_Plastic001
+    2300010: Bulb_Plastic002
+    2300012: Glass_Lamp3
+    2300014: Gold_Lamp3
+    2300016: Metal_Lamp1
+    2300018: Metal_Lamp2
+    2300020: Metal_Lamp3
+    2300022: Wire_Lamp1
+    2300024: Wire_Lamp2
+    2300026: Wire_Lamp3
+    3300000: Bulb
+    3300002: Bulb001
+    3300004: Bulb002
+    3300006: Bulb_Plastic
+    3300008: Bulb_Plastic001
+    3300010: Bulb_Plastic002
+    3300012: Glass_Lamp3
+    3300014: Gold_Lamp3
+    3300016: Metal_Lamp1
+    3300018: Metal_Lamp2
+    3300020: Metal_Lamp3
+    3300022: Wire_Lamp1
+    3300024: Wire_Lamp2
+    3300026: Wire_Lamp3
+    4300000: Metal_Lamp1
+    4300002: Metal_Lamp3
+    4300004: Metal_Lamp2
+    4300006: Bulb_Plastic
+    4300008: Bulb
+    4300010: Wire_Lamp1
+    4300012: Wire_Lamp2
+    4300014: Wire_Lamp3
+    4300016: Gold_Lamp3
+    4300018: Glass_Lamp3
+    4300020: Bulb001
+    4300022: Bulb_Plastic001
+    4300024: Bulb002
+    4300026: Bulb_Plastic002
+    6400000: Bulb
+    6400002: Bulb001
+    6400004: Bulb002
+    6400006: Bulb_Plastic
+    6400008: Bulb_Plastic001
+    6400010: Bulb_Plastic002
+    6400012: Glass_Lamp3
+    6400014: Gold_Lamp3
+    6400016: Metal_Lamp1
+    6400018: Metal_Lamp2
+    6400020: Metal_Lamp3
+    6400022: Wire_Lamp1
+    6400024: Wire_Lamp2
+    6400026: Wire_Lamp3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

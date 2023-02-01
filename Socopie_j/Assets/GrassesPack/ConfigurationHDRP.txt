@@ -1,0 +1,17 @@
+
+-assing shader Shader Graphs/GrassesAndPlantsHDRP to each material
+
+-change each material to transparent and check double sided, depth write and alpha clip
+
+-adjust prefab LODs
+
+-for terrain  create new terrai material and assing HDRP/TERRAINLIT shader and a terrain layer
+
+-asing FoliageDiffusionProfile in shader graph or each material
+
+-in the objets scene create an HDRP material with white color for the plane and cubes.
+
+
+In HDRP the grasses in the maps added as textures aren supported in that pipeline
+
+if scene is too dark or bright or no light in the plants, click in the directional light in the hiterarchy. Also check exposure values.
